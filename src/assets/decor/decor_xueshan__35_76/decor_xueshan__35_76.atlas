@@ -1,0 +1,68 @@
+xueshan.png
+size: 445,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+云_雪片1
+  rotate: true
+  xy: 404, 191
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1
+云_雪片2
+  rotate: false
+  xy: 170, 4
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+雪山
+  rotate: true
+  xy: 273, 13
+  size: 218, 129
+  orig: 218, 129
+  offset: 0, 0
+  index: -1
+雪山_口云
+  rotate: true
+  xy: 404, 36
+  size: 120, 28
+  orig: 121, 28
+  offset: 1, 0
+  index: -1
+雪山_口云2
+  rotate: false
+  xy: 47, 3
+  size: 121, 20
+  orig: 121, 20
+  offset: 0, 0
+  index: -1
+雪山_按钮 抬起来
+  rotate: true
+  xy: 404, 8
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+雪山_按钮 按下去
+  rotate: true
+  xy: 404, 158
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+雪山temp
+  rotate: false
+  xy: 2, 25
+  size: 269, 206
+  orig: 269, 206
+  offset: 0, 0
+  index: -1
+雪山口喷云
+  rotate: false
+  xy: 2, 2
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+fengm.png
+size: 1935,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1/Comp 1_00000
+  rotate: false
+  xy: 330, 89
+  size: 117, 66
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+Comp 1/Comp 1_00001
+  rotate: true
+  xy: 259, 33
+  size: 122, 69
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+Comp 1/Comp 1_00002
+  rotate: false
+  xy: 478, 165
+  size: 107, 73
+  orig: 324, 308
+  offset: 148, 136
+  index: -1
+Comp 1/Comp 1_00003
+  rotate: false
+  xy: 587, 161
+  size: 99, 77
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+Comp 1/Comp 1_00004
+  rotate: false
+  xy: 373, 157
+  size: 103, 81
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+Comp 1/Comp 1_00005
+  rotate: false
+  xy: 688, 175
+  size: 100, 63
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+Comp 1/Comp 1_00006
+  rotate: false
+  xy: 259, 157
+  size: 112, 81
+  orig: 324, 308
+  offset: 148, 137
+  index: -1
+Comp 1/Comp 1_00007
+  rotate: false
+  xy: 891, 183
+  size: 101, 55
+  orig: 324, 308
+  offset: 149, 136
+  index: -1
+feng
+  rotate: true
+  xy: 2, 2
+  size: 236, 255
+  orig: 263, 278
+  offset: 7, 9
+  index: -1
+st
+  rotate: false
+  xy: 2, 240
+  size: 1931, 333
+  orig: 1931, 340
+  offset: 0, 7
+  index: -1
+ybg
+  rotate: false
+  xy: 259, 7
+  size: 42, 24
+  orig: 43, 24
+  offset: 1, 0
+  index: -1
+光
+  rotate: false
+  xy: 330, 62
+  size: 38, 25
+  orig: 39, 26
+  offset: 1, 1
+  index: -1
+眼睛
+  rotate: false
+  xy: 994, 221
+  size: 30, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+眼睛的效果
+  rotate: false
+  xy: 790, 177
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+眼睛闭
+  rotate: true
+  xy: 449, 120
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1

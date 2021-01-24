@@ -1,0 +1,12 @@
+biaoben.png
+size: 342,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+标本
+  rotate: false
+  xy: 2, 2
+  size: 338, 241
+  orig: 338, 241
+  offset: 0, 0
+  index: -1

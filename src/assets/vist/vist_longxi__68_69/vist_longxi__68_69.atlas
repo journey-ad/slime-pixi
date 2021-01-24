@@ -1,0 +1,222 @@
+youyan.png
+size: 680,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z
+  rotate: true
+  xy: 237, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+byan
+  rotate: false
+  xy: 174, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+mst
+  rotate: false
+  xy: 2, 18
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+mtou
+  rotate: false
+  xy: 516, 251
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+mwb
+  rotate: true
+  xy: 397, 3
+  size: 210, 117
+  orig: 210, 117
+  offset: 0, 0
+  index: -1
+mydt
+  rotate: false
+  xy: 574, 9
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+myqs
+  rotate: true
+  xy: 464, 387
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+myshou
+  rotate: false
+  xy: 464, 299
+  size: 44, 32
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+myuojia
+  rotate: false
+  xy: 464, 215
+  size: 64, 34
+  orig: 65, 34
+  offset: 1, 0
+  index: -1
+myxt
+  rotate: false
+  xy: 309, 4
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+myy
+  rotate: false
+  xy: 516, 403
+  size: 160, 39
+  orig: 160, 39
+  offset: 0, 0
+  index: -1
+myy2
+  rotate: false
+  xy: 530, 218
+  size: 125, 31
+  orig: 126, 32
+  offset: 1, 0
+  index: -1
+myzdb
+  rotate: false
+  xy: 583, 56
+  size: 41, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+mzdb
+  rotate: false
+  xy: 648, 188
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+mzdt
+  rotate: false
+  xy: 516, 8
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+mzjiao
+  rotate: true
+  xy: 648, 123
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+mzqb
+  rotate: true
+  xy: 464, 455
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+mzxt
+  rotate: false
+  xy: 263, 3
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+mzz
+  rotate: true
+  xy: 464, 258
+  size: 39, 30
+  orig: 40, 30
+  offset: 1, 0
+  index: -1
+shou
+  rotate: true
+  xy: 174, 23
+  size: 175, 61
+  orig: 175, 61
+  offset: 0, 0
+  index: -1
+sst
+  rotate: true
+  xy: 295, 215
+  size: 306, 167
+  orig: 306, 167
+  offset: 0, 0
+  index: -1
+stou
+  rotate: true
+  xy: 237, 30
+  size: 168, 158
+  orig: 169, 158
+  offset: 1, 0
+  index: -1
+swb
+  rotate: false
+  xy: 516, 444
+  size: 162, 77
+  orig: 162, 78
+  offset: 0, 0
+  index: -1
+syj
+  rotate: false
+  xy: 2, 2
+  size: 87, 14
+  orig: 87, 15
+  offset: 0, 0
+  index: -1
+s阴影
+  rotate: true
+  xy: 2, 195
+  size: 326, 86
+  orig: 326, 87
+  offset: 0, 1
+  index: -1
+x
+  rotate: false
+  xy: 516, 53
+  size: 65, 68
+  orig: 67, 70
+  offset: 1, 1
+  index: -1
+xx
+  rotate: true
+  xy: 464, 333
+  size: 52, 48
+  orig: 54, 50
+  offset: 1, 1
+  index: -1
+ys
+  rotate: false
+  xy: 530, 125
+  size: 116, 91
+  orig: 116, 92
+  offset: 0, 1
+  index: -1
+zhengyan
+  rotate: true
+  xy: 91, 5
+  size: 11, 16
+  orig: 12, 17
+  offset: 1, 0
+  index: -1
+图层组288
+  rotate: false
+  xy: 632, 87
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+效果
+  rotate: true
+  xy: 90, 200
+  size: 321, 203
+  orig: 323, 205
+  offset: 1, 1
+  index: -1

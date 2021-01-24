@@ -1,0 +1,68 @@
+wo.png
+size: 463,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+congl
+  rotate: false
+  xy: 249, 114
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+congq
+  rotate: false
+  xy: 336, 28
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+congr
+  rotate: true
+  xy: 415, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 360, 117
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 2, 47
+  size: 245, 151
+  orig: 245, 151
+  offset: 0, 0
+  index: -1
+yzi
+  rotate: false
+  xy: 249, 78
+  size: 167, 34
+  orig: 167, 34
+  offset: 0, 0
+  index: -1
+眼睛l
+  rotate: true
+  xy: 249, 57
+  size: 19, 31
+  orig: 20, 31
+  offset: 1, 0
+  index: -1
+眼睛r
+  rotate: true
+  xy: 282, 57
+  size: 19, 30
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 2
+  size: 332, 43
+  orig: 333, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,145 @@
+cht.png
+size: 926,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+乐
+  rotate: false
+  xy: 508, 79
+  size: 167, 185
+  orig: 169, 187
+  offset: 1, 1
+  index: -1
+园
+  rotate: false
+  xy: 677, 83
+  size: 173, 181
+  orig: 175, 183
+  offset: 1, 1
+  index: -1
+姆
+  rotate: true
+  xy: 2, 50
+  size: 214, 172
+  orig: 216, 174
+  offset: 1, 1
+  index: -1
+姆-草
+  rotate: true
+  xy: 150, 12
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+按钮-s-形状 1
+  rotate: false
+  xy: 262, 2
+  size: 13, 22
+  orig: 15, 24
+  offset: 1, 1
+  index: -1
+按钮-s-进入乐园
+  rotate: false
+  xy: 453, 3
+  size: 411, 65
+  orig: 413, 67
+  offset: 1, 1
+  index: -1
+莱1
+  rotate: false
+  xy: 176, 63
+  size: 171, 201
+  orig: 173, 203
+  offset: 1, 1
+  index: -1
+蘑菇
+  rotate: true
+  xy: 206, 7
+  size: 54, 34
+  orig: 56, 36
+  offset: 1, 1
+  index: -1
+蘑菇-投影
+  rotate: true
+  xy: 242, 10
+  size: 51, 18
+  orig: 53, 20
+  offset: 1, 1
+  index: -1
+通用_史
+  rotate: false
+  xy: 349, 70
+  size: 157, 194
+  orig: 159, 196
+  offset: 1, 1
+  index: -1
+通用_投影
+  rotate: false
+  xy: 305, 5
+  size: 146, 19
+  orig: 148, 21
+  offset: 1, 1
+  index: -1
+通用_翅膀-右
+  rotate: false
+  xy: 56, 7
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_翅膀-左
+  rotate: false
+  xy: 94, 7
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_花
+  rotate: true
+  xy: 2, 2
+  size: 46, 26
+  orig: 48, 28
+  offset: 1, 1
+  index: -1
+通用_花-投影
+  rotate: true
+  xy: 132, 10
+  size: 38, 16
+  orig: 40, 18
+  offset: 1, 1
+  index: -1
+通用_花儿
+  rotate: false
+  xy: 262, 26
+  size: 74, 35
+  orig: 76, 37
+  offset: 1, 1
+  index: -1
+通用_花儿-投影
+  rotate: false
+  xy: 338, 32
+  size: 67, 29
+  orig: 69, 31
+  offset: 1, 1
+  index: -1
+通用_草
+  rotate: true
+  xy: 30, 4
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+通用_草1
+  rotate: false
+  xy: 277, 4
+  size: 26, 20
+  orig: 28, 22
+  offset: 1, 1
+  index: -1
+通用_铲子
+  rotate: false
+  xy: 852, 177
+  size: 72, 87
+  orig: 74, 89
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,159 @@
+IND.png
+size: 709,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 60
+  size: 149, 142
+  orig: 151, 144
+  offset: 1, 1
+  index: -1
+02
+  rotate: true
+  xy: 429, 2
+  size: 100, 109
+  orig: 102, 111
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 429, 104
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1
+04
+  rotate: true
+  xy: 415, 219
+  size: 50, 151
+  orig: 52, 153
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 568, 180
+  size: 89, 108
+  orig: 91, 110
+  offset: 1, 1
+  index: -1
+06
+  rotate: true
+  xy: 2, 6
+  size: 52, 148
+  orig: 54, 150
+  offset: 1, 1
+  index: -1
+07
+  rotate: true
+  xy: 153, 29
+  size: 50, 151
+  orig: 52, 153
+  offset: 1, 1
+  index: -1
+08
+  rotate: true
+  xy: 310, 57
+  size: 145, 117
+  orig: 147, 119
+  offset: 1, 1
+  index: -1
+09
+  rotate: true
+  xy: 541, 83
+  size: 95, 108
+  orig: 97, 110
+  offset: 1, 1
+  index: -1
+c
+  rotate: true
+  xy: 153, 81
+  size: 121, 155
+  orig: 123, 157
+  offset: 1, 1
+  index: -1
+姆-草
+  rotate: true
+  xy: 364, 19
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+按钮-s-形状 1
+  rotate: false
+  xy: 678, 199
+  size: 13, 22
+  orig: 15, 24
+  offset: 1, 1
+  index: -1
+蘑菇
+  rotate: false
+  xy: 306, 18
+  size: 56, 37
+  orig: 67, 47
+  offset: 6, 5
+  index: -1
+进入乐园
+  rotate: false
+  xy: 2, 204
+  size: 411, 65
+  orig: 417, 71
+  offset: 3, 3
+  index: -1
+通用_投影
+  rotate: false
+  xy: 152, 8
+  size: 146, 19
+  orig: 148, 21
+  offset: 1, 1
+  index: -1
+通用_翅膀-右
+  rotate: false
+  xy: 655, 61
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_翅膀-左
+  rotate: false
+  xy: 655, 18
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_花
+  rotate: true
+  xy: 678, 223
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+通用_花儿
+  rotate: true
+  xy: 651, 104
+  size: 74, 39
+  orig: 80, 42
+  offset: 2, 1
+  index: -1
+通用_草
+  rotate: true
+  xy: 629, 37
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+通用_草1
+  rotate: true
+  xy: 541, 191
+  size: 26, 20
+  orig: 28, 22
+  offset: 1, 1
+  index: -1
+通用_铲子
+  rotate: true
+  xy: 540, 9
+  size: 72, 87
+  orig: 74, 89
+  offset: 1, 1
+  index: -1

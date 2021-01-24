@@ -1,0 +1,201 @@
+reqiqiu.png
+size: 411,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+吊绳
+  rotate: true
+  xy: 2, 52
+  size: 183, 70
+  orig: 183, 70
+  offset: 0, 0
+  index: -1
+文字泡
+  rotate: false
+  xy: 74, 191
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+气球
+  rotate: false
+  xy: 2, 301
+  size: 311, 220
+  orig: 312, 220
+  offset: 1, 0
+  index: -1
+汗01
+  rotate: true
+  xy: 379, 3
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+汗02
+  rotate: false
+  xy: 394, 5
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+汗03
+  rotate: false
+  xy: 117, 151
+  size: 16, 13
+  orig: 16, 14
+  offset: 0, 1
+  index: -1
+睁眼Ql
+  rotate: false
+  xy: 117, 80
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+睁眼Qr
+  rotate: false
+  xy: 140, 9
+  size: 37, 69
+  orig: 38, 69
+  offset: 1, 0
+  index: -1
+睁眼l
+  rotate: true
+  xy: 379, 118
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+睁眼r
+  rotate: true
+  xy: 379, 97
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+睡觉03
+  rotate: false
+  xy: 379, 44
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+篮子前
+  rotate: true
+  xy: 303, 3
+  size: 161, 74
+  orig: 162, 75
+  offset: 1, 1
+  index: -1
+篮子后
+  rotate: false
+  xy: 140, 159
+  size: 161, 82
+  orig: 161, 82
+  offset: 0, 0
+  index: -1
+绳子
+  rotate: false
+  xy: 2, 243
+  size: 301, 56
+  orig: 301, 56
+  offset: 0, 0
+  index: -1
+翅膀01
+  rotate: true
+  xy: 179, 63
+  size: 46, 116
+  orig: 46, 116
+  offset: 0, 0
+  index: -1
+翅膀02
+  rotate: true
+  xy: 179, 111
+  size: 46, 116
+  orig: 46, 116
+  offset: 0, 0
+  index: -1
+翅膀R
+  rotate: true
+  xy: 379, 139
+  size: 25, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+翅膀l
+  rotate: true
+  xy: 379, 70
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 303, 166
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+闭眼01
+  rotate: true
+  xy: 379, 20
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+闭眼02
+  rotate: false
+  xy: 117, 166
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+闭眼03l
+  rotate: true
+  xy: 305, 247
+  size: 24, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+闭眼03r
+  rotate: true
+  xy: 305, 273
+  size: 26, 7
+  orig: 27, 8
+  offset: 0, 1
+  index: -1
+闭眼Q
+  rotate: false
+  xy: 2, 2
+  size: 136, 48
+  orig: 136, 48
+  offset: 0, 0
+  index: -1
+闭眼Ql
+  rotate: false
+  xy: 179, 13
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+闭眼Qr
+  rotate: false
+  xy: 227, 14
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+阴影Q
+  rotate: true
+  xy: 74, 55
+  size: 134, 41
+  orig: 134, 42
+  offset: 0, 0
+  index: -1
+顶
+  rotate: true
+  xy: 315, 237
+  size: 284, 91
+  orig: 284, 91
+  offset: 0, 0
+  index: -1

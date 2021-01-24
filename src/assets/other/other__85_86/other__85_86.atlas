@@ -1,0 +1,446 @@
+all.png
+size: 1428,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b睁眼l
+  rotate: false
+  xy: 1324, 9
+  size: 19, 30
+  orig: 20, 31
+  offset: 0, 1
+  index: -1
+b睁眼r
+  rotate: false
+  xy: 1302, 9
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+b身体
+  rotate: false
+  xy: 1155, 39
+  size: 118, 69
+  orig: 118, 69
+  offset: 0, 0
+  index: -1
+b闭眼03l
+  rotate: false
+  xy: 1304, 41
+  size: 25, 8
+  orig: 26, 8
+  offset: 1, 0
+  index: -1
+b闭眼03r
+  rotate: false
+  xy: 1331, 42
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+b阴影
+  rotate: true
+  xy: 429, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+cy
+  rotate: false
+  xy: 881, 2
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+c睁眼Y
+  rotate: false
+  xy: 1315, 78
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+c睁眼Z
+  rotate: false
+  xy: 1398, 47
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+c身体
+  rotate: true
+  xy: 288, 2
+  size: 106, 68
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+c闭眼Y
+  rotate: false
+  xy: 786, 11
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+c闭眼Z
+  rotate: false
+  xy: 1360, 45
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+c阴影
+  rotate: true
+  xy: 463, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+f睁眼l
+  rotate: false
+  xy: 1336, 78
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+f睁眼r
+  rotate: false
+  xy: 1357, 78
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+f身体
+  rotate: true
+  xy: 146, 2
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+f闭眼01l
+  rotate: false
+  xy: 1007, 3
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+f闭眼01r
+  rotate: false
+  xy: 974, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+f闭眼l
+  rotate: true
+  xy: 998, 2
+  size: 24, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+f闭眼r
+  rotate: true
+  xy: 1419, 51
+  size: 26, 7
+  orig: 27, 8
+  offset: 0, 1
+  index: -1
+f阴影
+  rotate: true
+  xy: 497, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+hl身体
+  rotate: true
+  xy: 358, 3
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+hm身体
+  rotate: true
+  xy: 633, 4
+  size: 104, 69
+  orig: 105, 69
+  offset: 1, 0
+  index: -1
+h光
+  rotate: false
+  xy: 856, 27
+  size: 117, 81
+  orig: 119, 83
+  offset: 1, 1
+  index: -1
+h睁眼l
+  rotate: false
+  xy: 1345, 10
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+h睁眼r
+  rotate: true
+  xy: 1366, 57
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+h闭眼l
+  rotate: false
+  xy: 815, 11
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+h闭眼r
+  rotate: false
+  xy: 834, 2
+  size: 45, 7
+  orig: 46, 7
+  offset: 1, 0
+  index: -1
+h阴影
+  rotate: true
+  xy: 704, 4
+  size: 104, 32
+  orig: 104, 32
+  offset: 0, 0
+  index: -1
+l发光求2
+  rotate: true
+  xy: 1270, 6
+  size: 31, 30
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+l发电球l
+  rotate: false
+  xy: 1070, 2
+  size: 31, 29
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+l发电球m
+  rotate: false
+  xy: 1315, 51
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+l睁眼l
+  rotate: false
+  xy: 1399, 79
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+l睁眼r
+  rotate: false
+  xy: 1407, 16
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+l背影
+  rotate: true
+  xy: 2, 2
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+l触角
+  rotate: true
+  xy: 1028, 2
+  size: 29, 40
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+l触角2
+  rotate: true
+  xy: 1231, 5
+  size: 32, 37
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+l身体
+  rotate: true
+  xy: 74, 2
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+l闭眼l
+  rotate: false
+  xy: 757, 10
+  size: 27, 9
+  orig: 28, 10
+  offset: 1, 0
+  index: -1
+l闭眼r
+  rotate: false
+  xy: 844, 11
+  size: 27, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+l阴影
+  rotate: true
+  xy: 531, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+s睁眼l
+  rotate: false
+  xy: 1378, 78
+  size: 19, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+s睁眼r
+  rotate: false
+  xy: 1387, 13
+  size: 18, 30
+  orig: 19, 30
+  offset: 1, 0
+  index: -1
+s身体
+  rotate: true
+  xy: 217, 2
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+s闭眼l
+  rotate: false
+  xy: 1275, 41
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+s闭眼r
+  rotate: false
+  xy: 1366, 4
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+s阴影
+  rotate: true
+  xy: 565, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 1026, 33
+  size: 75, 68
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 975, 28
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 1096, 33
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 1275, 51
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+yh烧火棍
+  rotate: true
+  xy: 1160, 4
+  size: 33, 69
+  orig: 34, 69
+  offset: 1, 0
+  index: -1
+y头花01
+  rotate: false
+  xy: 1342, 54
+  size: 22, 22
+  orig: 22, 23
+  offset: 0, 1
+  index: -1
+y头花02
+  rotate: false
+  xy: 738, 2
+  size: 17, 17
+  orig: 17, 18
+  offset: 0, 1
+  index: -1
+y烧火棍
+  rotate: false
+  xy: 1134, 36
+  size: 19, 72
+  orig: 20, 73
+  offset: 1, 1
+  index: -1
+y睁眼l
+  rotate: false
+  xy: 1366, 13
+  size: 19, 30
+  orig: 20, 31
+  offset: 1, 1
+  index: -1
+y睁眼r
+  rotate: true
+  xy: 941, 2
+  size: 23, 31
+  orig: 58, 31
+  offset: 35, 0
+  index: -1
+y身体
+  rotate: false
+  xy: 738, 21
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+y闭眼l
+  rotate: false
+  xy: 1395, 4
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+y闭眼r
+  rotate: false
+  xy: 786, 2
+  size: 46, 7
+  orig: 47, 7
+  offset: 1, 0
+  index: -1
+y阴影
+  rotate: true
+  xy: 599, 3
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+翅膀R
+  rotate: false
+  xy: 1132, 2
+  size: 26, 29
+  orig: 26, 30
+  offset: 0, 1
+  index: -1
+翅膀l
+  rotate: false
+  xy: 1103, 2
+  size: 27, 29
+  orig: 149, 30
+  offset: 0, 1
+  index: -1

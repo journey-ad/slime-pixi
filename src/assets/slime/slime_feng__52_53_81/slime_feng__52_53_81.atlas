@@ -1,0 +1,110 @@
+fengs.png
+size: 189,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+文字泡
+  rotate: false
+  xy: 110, 90
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+汗01
+  rotate: false
+  xy: 172, 34
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+汗02
+  rotate: false
+  xy: 172, 19
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+汗03
+  rotate: false
+  xy: 116, 8
+  size: 16, 13
+  orig: 16, 14
+  offset: 0, 1
+  index: -1
+睁眼
+  rotate: false
+  xy: 2, 4
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+睡觉01
+  rotate: false
+  xy: 144, 25
+  size: 26, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+睡觉02
+  rotate: false
+  xy: 144, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+睡觉03
+  rotate: false
+  xy: 116, 23
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+翅膀R
+  rotate: false
+  xy: 61, 5
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+翅膀l
+  rotate: false
+  xy: 89, 7
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 2, 71
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+闭眼01
+  rotate: false
+  xy: 110, 63
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+闭眼02
+  rotate: false
+  xy: 109, 49
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+闭眼03
+  rotate: true
+  xy: 179, 71
+  size: 69, 8
+  orig: 69, 8
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 37
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1

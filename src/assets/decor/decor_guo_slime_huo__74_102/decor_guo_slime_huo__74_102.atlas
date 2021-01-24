@@ -1,0 +1,173 @@
+guo.png
+size: 1455,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h01
+  rotate: false
+  xy: 487, 2
+  size: 196, 40
+  orig: 399, 297
+  offset: 114, 114
+  index: -1
+h02
+  rotate: false
+  xy: 886, 7
+  size: 197, 42
+  orig: 399, 297
+  offset: 114, 115
+  index: -1
+h03
+  rotate: false
+  xy: 685, 2
+  size: 199, 43
+  orig: 399, 297
+  offset: 112, 115
+  index: -1
+h04
+  rotate: false
+  xy: 816, 51
+  size: 201, 46
+  orig: 399, 297
+  offset: 111, 115
+  index: -1
+h05
+  rotate: false
+  xy: 614, 47
+  size: 200, 50
+  orig: 399, 297
+  offset: 112, 115
+  index: -1
+h06
+  rotate: false
+  xy: 1085, 3
+  size: 196, 51
+  orig: 399, 297
+  offset: 114, 115
+  index: -1
+h07
+  rotate: false
+  xy: 419, 44
+  size: 193, 53
+  orig: 399, 297
+  offset: 116, 115
+  index: -1
+不点火影子
+  rotate: false
+  xy: 955, 103
+  size: 187, 68
+  orig: 188, 69
+  offset: 0, 1
+  index: -1
+不点火木柴
+  rotate: false
+  xy: 419, 99
+  size: 266, 72
+  orig: 267, 72
+  offset: 1, 0
+  index: -1
+小泡泡02
+  rotate: false
+  xy: 70, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+挡史莱姆用水
+  rotate: false
+  xy: 1019, 56
+  size: 138, 45
+  orig: 139, 45
+  offset: 1, 0
+  index: -1
+气01
+  rotate: false
+  xy: 1144, 104
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+气02
+  rotate: false
+  xy: 1239, 82
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+水后
+  rotate: false
+  xy: 1280, 82
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+泡泡01
+  rotate: false
+  xy: 97, 7
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+泡澡用
+  rotate: false
+  xy: 2, 7
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+泡澡用脸蛋
+  rotate: false
+  xy: 398, 22
+  size: 87, 19
+  orig: 89, 21
+  offset: 1, 1
+  index: -1
+火
+  rotate: false
+  xy: 208, 8
+  size: 188, 33
+  orig: 188, 33
+  offset: 0, 0
+  index: -1
+点火木柴
+  rotate: false
+  xy: 687, 99
+  size: 266, 72
+  orig: 267, 72
+  offset: 1, 0
+  index: -1
+破了的泡泡
+  rotate: false
+  xy: 70, 9
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1283, 12
+  size: 105, 68
+  orig: 105, 69
+  offset: 0, 1
+  index: -1
+锅前
+  rotate: false
+  xy: 208, 43
+  size: 209, 128
+  orig: 209, 128
+  offset: 0, 0
+  index: -1
+锅后
+  rotate: false
+  xy: 2, 20
+  size: 204, 151
+  orig: 207, 153
+  offset: 1, 1
+  index: -1
+鸭鸭毛巾
+  rotate: false
+  xy: 1159, 58
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1

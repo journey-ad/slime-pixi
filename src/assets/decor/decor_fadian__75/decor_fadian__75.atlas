@@ -1,0 +1,530 @@
+fadianji.png
+size: 787,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+单头电_00000
+  rotate: true
+  xy: 498, 91
+  size: 16, 28
+  orig: 26, 42
+  offset: 5, 3
+  index: -1
+单头电_00001
+  rotate: true
+  xy: 662, 4
+  size: 17, 27
+  orig: 26, 42
+  offset: 5, 4
+  index: -1
+单头电_00002
+  rotate: false
+  xy: 674, 84
+  size: 17, 27
+  orig: 26, 42
+  offset: 5, 4
+  index: -1
+单头电_00003
+  rotate: false
+  xy: 747, 55
+  size: 14, 27
+  orig: 26, 42
+  offset: 6, 4
+  index: -1
+单头电_00004
+  rotate: false
+  xy: 738, 113
+  size: 14, 27
+  orig: 26, 42
+  offset: 6, 4
+  index: -1
+单头电_00005
+  rotate: false
+  xy: 774, 3
+  size: 11, 23
+  orig: 26, 42
+  offset: 7, 8
+  index: -1
+单头电_00006
+  rotate: false
+  xy: 690, 55
+  size: 17, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00007
+  rotate: true
+  xy: 604, 2
+  size: 18, 28
+  orig: 26, 42
+  offset: 4, 3
+  index: -1
+单头电_00008
+  rotate: true
+  xy: 544, 2
+  size: 16, 28
+  orig: 26, 42
+  offset: 5, 3
+  index: -1
+单头电_00009
+  rotate: true
+  xy: 574, 2
+  size: 16, 28
+  orig: 26, 42
+  offset: 6, 3
+  index: -1
+单头电_00010
+  rotate: false
+  xy: 748, 84
+  size: 14, 27
+  orig: 26, 42
+  offset: 7, 4
+  index: -1
+单头电_00011
+  rotate: false
+  xy: 629, 82
+  size: 15, 28
+  orig: 26, 42
+  offset: 6, 3
+  index: -1
+单头电_00012
+  rotate: false
+  xy: 645, 52
+  size: 15, 28
+  orig: 26, 42
+  offset: 6, 3
+  index: -1
+单头电_00013
+  rotate: false
+  xy: 754, 114
+  size: 13, 26
+  orig: 26, 42
+  offset: 6, 5
+  index: -1
+单头电_00014
+  rotate: false
+  xy: 693, 84
+  size: 17, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00015
+  rotate: false
+  xy: 709, 55
+  size: 17, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00016
+  rotate: false
+  xy: 606, 52
+  size: 18, 28
+  orig: 26, 42
+  offset: 4, 3
+  index: -1
+单头电_00017
+  rotate: false
+  xy: 610, 82
+  size: 17, 28
+  orig: 26, 42
+  offset: 4, 3
+  index: -1
+单头电_00018
+  rotate: false
+  xy: 627, 112
+  size: 17, 28
+  orig: 26, 42
+  offset: 4, 3
+  index: -1
+单头电_00019
+  rotate: false
+  xy: 640, 22
+  size: 16, 28
+  orig: 26, 42
+  offset: 5, 3
+  index: -1
+单头电_00020
+  rotate: false
+  xy: 733, 26
+  size: 16, 27
+  orig: 26, 42
+  offset: 5, 4
+  index: -1
+单头电_00021
+  rotate: false
+  xy: 714, 26
+  size: 17, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00022
+  rotate: false
+  xy: 720, 113
+  size: 16, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00023
+  rotate: false
+  xy: 731, 84
+  size: 15, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00024
+  rotate: false
+  xy: 620, 22
+  size: 18, 28
+  orig: 26, 42
+  offset: 2, 3
+  index: -1
+单头电_00025
+  rotate: false
+  xy: 606, 112
+  size: 19, 28
+  orig: 26, 42
+  offset: 2, 3
+  index: -1
+单头电_00026
+  rotate: false
+  xy: 701, 113
+  size: 17, 27
+  orig: 26, 42
+  offset: 3, 4
+  index: -1
+单头电_00027
+  rotate: false
+  xy: 712, 84
+  size: 17, 27
+  orig: 26, 42
+  offset: 3, 4
+  index: -1
+单头电_00028
+  rotate: false
+  xy: 728, 55
+  size: 17, 27
+  orig: 26, 42
+  offset: 4, 4
+  index: -1
+单头电_00029
+  rotate: false
+  xy: 626, 52
+  size: 17, 28
+  orig: 26, 42
+  offset: 5, 3
+  index: -1
+双头电_00000
+  rotate: true
+  xy: 211, 2
+  size: 24, 27
+  orig: 42, 42
+  offset: 9, 4
+  index: -1
+双头电_00001
+  rotate: true
+  xy: 691, 2
+  size: 22, 26
+  orig: 42, 42
+  offset: 10, 5
+  index: -1
+双头电_00002
+  rotate: true
+  xy: 747, 7
+  size: 17, 25
+  orig: 42, 42
+  offset: 14, 6
+  index: -1
+双头电_00003
+  rotate: true
+  xy: 634, 2
+  size: 18, 26
+  orig: 42, 42
+  offset: 14, 5
+  index: -1
+双头电_00004
+  rotate: true
+  xy: 345, 3
+  size: 23, 28
+  orig: 42, 42
+  offset: 12, 3
+  index: -1
+双头电_00005
+  rotate: true
+  xy: 375, 3
+  size: 23, 28
+  orig: 42, 42
+  offset: 13, 3
+  index: -1
+双头电_00006
+  rotate: false
+  xy: 572, 20
+  size: 25, 28
+  orig: 42, 42
+  offset: 12, 3
+  index: -1
+双头电_00007
+  rotate: false
+  xy: 658, 23
+  size: 26, 27
+  orig: 42, 42
+  offset: 12, 4
+  index: -1
+双头电_00008
+  rotate: true
+  xy: 519, 111
+  size: 29, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00009
+  rotate: false
+  xy: 646, 113
+  size: 26, 27
+  orig: 42, 42
+  offset: 12, 4
+  index: -1
+双头电_00010
+  rotate: true
+  xy: 528, 80
+  size: 29, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00011
+  rotate: false
+  xy: 549, 112
+  size: 28, 28
+  orig: 42, 42
+  offset: 9, 3
+  index: -1
+双头电_00012
+  rotate: false
+  xy: 528, 50
+  size: 27, 28
+  orig: 42, 42
+  offset: 8, 3
+  index: -1
+双头电_00013
+  rotate: false
+  xy: 544, 20
+  size: 26, 28
+  orig: 42, 42
+  offset: 8, 3
+  index: -1
+双头电_00014
+  rotate: true
+  xy: 121, 2
+  size: 24, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00015
+  rotate: true
+  xy: 151, 2
+  size: 24, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00016
+  rotate: false
+  xy: 585, 82
+  size: 23, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00017
+  rotate: true
+  xy: 240, 2
+  size: 24, 27
+  orig: 42, 42
+  offset: 10, 4
+  index: -1
+双头电_00018
+  rotate: true
+  xy: 719, 2
+  size: 22, 26
+  orig: 42, 42
+  offset: 11, 5
+  index: -1
+双头电_00019
+  rotate: false
+  xy: 646, 84
+  size: 26, 27
+  orig: 42, 42
+  offset: 8, 4
+  index: -1
+双头电_00020
+  rotate: false
+  xy: 662, 55
+  size: 26, 27
+  orig: 42, 42
+  offset: 8, 4
+  index: -1
+双头电_00021
+  rotate: false
+  xy: 686, 26
+  size: 26, 27
+  orig: 42, 42
+  offset: 9, 4
+  index: -1
+双头电_00022
+  rotate: false
+  xy: 674, 113
+  size: 25, 27
+  orig: 42, 42
+  offset: 10, 4
+  index: -1
+双头电_00023
+  rotate: false
+  xy: 557, 50
+  size: 26, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00024
+  rotate: false
+  xy: 558, 82
+  size: 25, 28
+  orig: 42, 42
+  offset: 10, 3
+  index: -1
+双头电_00025
+  rotate: false
+  xy: 579, 112
+  size: 25, 28
+  orig: 42, 42
+  offset: 9, 3
+  index: -1
+双头电_00026
+  rotate: true
+  xy: 269, 2
+  size: 24, 27
+  orig: 42, 42
+  offset: 9, 4
+  index: -1
+双头电_00027
+  rotate: true
+  xy: 181, 2
+  size: 24, 28
+  orig: 42, 42
+  offset: 9, 3
+  index: -1
+双头电_00028
+  rotate: false
+  xy: 327, 2
+  size: 16, 24
+  orig: 42, 42
+  offset: 13, 7
+  index: -1
+双头电_00029
+  rotate: true
+  xy: 298, 2
+  size: 24, 27
+  orig: 42, 42
+  offset: 9, 4
+  index: -1
+发电机_出水1
+  rotate: true
+  xy: 763, 66
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+发电机_出水2
+  rotate: false
+  xy: 764, 98
+  size: 14, 14
+  orig: 15, 14
+  offset: 1, 0
+  index: -1
+发电机_史莱姆_发电球
+  rotate: true
+  xy: 512, 13
+  size: 31, 30
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+发电机_史莱姆_发电球_紫色
+  rotate: false
+  xy: 751, 28
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+发电机_史莱姆_头顶
+  rotate: true
+  xy: 405, 4
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+发电机_史莱姆_眼睛1
+  rotate: false
+  xy: 585, 52
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+发电机_史莱姆_眼睛2
+  rotate: false
+  xy: 599, 22
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+发电机_史莱姆_身体
+  rotate: true
+  xy: 390, 38
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+发电机_天线放电1
+  rotate: false
+  xy: 465, 42
+  size: 28, 47
+  orig: 30, 49
+  offset: 1, 1
+  index: -1
+发电机_天线放电2
+  rotate: false
+  xy: 465, 91
+  size: 31, 49
+  orig: 33, 51
+  offset: 1, 1
+  index: -1
+发电机_天线放电3
+  rotate: true
+  xy: 469, 3
+  size: 37, 41
+  orig: 46, 43
+  offset: 8, 1
+  index: -1
+发电机_开关
+  rotate: true
+  xy: 495, 46
+  size: 43, 31
+  orig: 43, 32
+  offset: 0, 1
+  index: -1
+发电机_开关mask
+  rotate: false
+  xy: 498, 109
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+发电机_机身
+  rotate: false
+  xy: 121, 28
+  size: 267, 112
+  orig: 267, 112
+  offset: 0, 0
+  index: -1
+发电机_玻璃罩
+  rotate: true
+  xy: 2, 2
+  size: 138, 117
+  orig: 138, 117
+  offset: 0, 0
+  index: -1

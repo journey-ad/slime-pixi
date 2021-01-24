@@ -1,0 +1,47 @@
+bengc.png
+size: 842,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y1
+  rotate: true
+  xy: 408, 33
+  size: 48, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+Y2
+  rotate: false
+  xy: 359, 52
+  size: 47, 29
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+hou
+  rotate: false
+  xy: 2, 83
+  size: 429, 117
+  orig: 429, 117
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 433, 104
+  size: 407, 96
+  orig: 407, 96
+  offset: 0, 0
+  index: -1
+tan
+  rotate: false
+  xy: 2, 2
+  size: 355, 79
+  orig: 355, 79
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 433, 18
+  size: 400, 84
+  orig: 400, 84
+  offset: 0, 0
+  index: -1

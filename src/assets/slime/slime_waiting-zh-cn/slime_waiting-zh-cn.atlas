@@ -1,0 +1,355 @@
+caowz.png
+size: 1508,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!Y1
+  rotate: false
+  xy: 1321, 2
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+!Y2
+  rotate: false
+  xy: 738, 2
+  size: 141, 82
+  orig: 141, 82
+  offset: 0, 0
+  index: -1
+!Y3
+  rotate: false
+  xy: 353, 4
+  size: 135, 60
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+!Y4
+  rotate: true
+  xy: 521, 6
+  size: 65, 89
+  orig: 134, 89
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 243, 57
+  size: 7, 21
+  orig: 12, 21
+  offset: 1, 0
+  index: -1
+2
+  rotate: true
+  xy: 1377, 249
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1154, 101
+  size: 14, 30
+  orig: 16, 30
+  offset: 2, 0
+  index: -1
+4
+  rotate: false
+  xy: 84, 8
+  size: 12, 26
+  orig: 13, 27
+  offset: 1, 0
+  index: -1
+5
+  rotate: true
+  xy: 69, 36
+  size: 15, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1172, 66
+  size: 9, 33
+  orig: 11, 33
+  offset: 1, 0
+  index: -1
+7
+  rotate: false
+  xy: 1491, 95
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+B眼睛Y
+  rotate: true
+  xy: 2, 3
+  size: 31, 39
+  orig: 33, 41
+  offset: 1, 1
+  index: -1
+B眼睛Z
+  rotate: true
+  xy: 43, 3
+  size: 31, 39
+  orig: 33, 41
+  offset: 1, 1
+  index: -1
+Z眼睛Y
+  rotate: false
+  xy: 1377, 138
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Z眼睛Z
+  rotate: false
+  xy: 1414, 138
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+乐
+  rotate: false
+  xy: 876, 90
+  size: 160, 177
+  orig: 162, 179
+  offset: 1, 1
+  index: -1
+乐-投影
+  rotate: true
+  xy: 1314, 122
+  size: 145, 19
+  orig: 147, 21
+  offset: 1, 1
+  index: -1
+史-投影
+  rotate: true
+  xy: 1314, 122
+  size: 145, 19
+  orig: 147, 21
+  offset: 1, 1
+  index: -1
+史
+  rotate: false
+  xy: 419, 73
+  size: 157, 194
+  orig: 159, 196
+  offset: 1, 1
+  index: -1
+园
+  rotate: false
+  xy: 701, 86
+  size: 173, 181
+  orig: 175, 183
+  offset: 1, 1
+  index: -1
+园-投影
+  rotate: true
+  xy: 1335, 126
+  size: 141, 19
+  orig: 143, 21
+  offset: 1, 1
+  index: -1
+埋BT
+  rotate: true
+  xy: 1253, 120
+  size: 147, 38
+  orig: 147, 38
+  offset: 0, 0
+  index: -1
+埋Y1
+  rotate: false
+  xy: 881, 4
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+埋Y2
+  rotate: false
+  xy: 1013, 11
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+埋Y3
+  rotate: false
+  xy: 1377, 194
+  size: 126, 53
+  orig: 126, 54
+  offset: 0, 1
+  index: -1
+埋Y4
+  rotate: true
+  xy: 268, 2
+  size: 62, 83
+  orig: 124, 83
+  offset: 0, 0
+  index: -1
+姆
+  rotate: true
+  xy: 69, 53
+  size: 214, 172
+  orig: 216, 174
+  offset: 1, 1
+  index: -1
+姆-投影
+  rotate: true
+  xy: 1356, 132
+  size: 135, 19
+  orig: 137, 21
+  offset: 1, 1
+  index: -1
+姆-草
+  rotate: false
+  xy: 1455, 8
+  size: 34, 52
+  orig: 36, 54
+  offset: 1, 1
+  index: -1
+形状 1
+  rotate: false
+  xy: 1171, 9
+  size: 13, 22
+  orig: 15, 24
+  offset: 1, 1
+  index: -1
+形状 3
+  rotate: true
+  xy: 1149, 33
+  size: 60, 21
+  orig: 62, 23
+  offset: 1, 1
+  index: -1
+翅膀-右
+  rotate: true
+  xy: 1455, 156
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+翅膀-左
+  rotate: true
+  xy: 1455, 118
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+花
+  rotate: true
+  xy: 214, 5
+  size: 46, 26
+  orig: 48, 28
+  offset: 1, 1
+  index: -1
+花-投影
+  rotate: false
+  xy: 1412, 251
+  size: 38, 16
+  orig: 40, 18
+  offset: 1, 1
+  index: -1
+花儿
+  rotate: true
+  xy: 612, 3
+  size: 74, 35
+  orig: 76, 37
+  offset: 1, 1
+  index: -1
+花儿-投影
+  rotate: true
+  xy: 490, 4
+  size: 67, 29
+  orig: 69, 31
+  offset: 1, 1
+  index: -1
+草
+  rotate: true
+  xy: 242, 7
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+草1
+  rotate: true
+  xy: 1149, 5
+  size: 26, 20
+  orig: 28, 22
+  offset: 1, 1
+  index: -1
+莱
+  rotate: false
+  xy: 243, 66
+  size: 174, 201
+  orig: 176, 203
+  offset: 1, 1
+  index: -1
+莱-投影
+  rotate: true
+  xy: 1293, 121
+  size: 146, 19
+  orig: 148, 21
+  offset: 1, 1
+  index: -1
+蘑菇
+  rotate: true
+  xy: 1455, 62
+  size: 54, 34
+  orig: 56, 36
+  offset: 1, 1
+  index: -1
+蘑菇-投影
+  rotate: false
+  xy: 1455, 249
+  size: 51, 18
+  orig: 53, 20
+  offset: 1, 1
+  index: -1
+跳BT 4
+  rotate: true
+  xy: 578, 79
+  size: 188, 121
+  orig: 191, 121
+  offset: 0, 0
+  index: -1
+跳草1
+  rotate: true
+  xy: 98, 4
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+跳草2
+  rotate: false
+  xy: 1154, 117
+  size: 97, 150
+  orig: 97, 150
+  offset: 0, 0
+  index: -1
+跳草3
+  rotate: false
+  xy: 1038, 95
+  size: 114, 172
+  orig: 114, 173
+  offset: 0, 1
+  index: -1
+跳草4
+  rotate: true
+  xy: 1186, 2
+  size: 113, 133
+  orig: 114, 135
+  offset: 0, 2
+  index: -1
+进入乐园
+  rotate: true
+  xy: 2, 36
+  size: 231, 65
+  orig: 233, 67
+  offset: 1, 1
+  index: -1
+铲子
+  rotate: true
+  xy: 649, 5
+  size: 72, 87
+  orig: 74, 89
+  offset: 1, 1
+  index: -1

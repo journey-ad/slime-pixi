@@ -1,0 +1,383 @@
+wutai.png
+size: 777,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+史莱姆_绳子
+  rotate: false
+  xy: 714, 2
+  size: 10, 57
+  orig: 11, 58
+  offset: 1, 0
+  index: -1
+史莱姆气球
+  rotate: true
+  xy: 434, 522
+  size: 151, 92
+  orig: 151, 92
+  offset: 0, 0
+  index: -1
+地面
+  rotate: true
+  xy: 2, 216
+  size: 816, 70
+  orig: 816, 70
+  offset: 0, 0
+  index: -1
+大木桩1
+  rotate: true
+  xy: 547, 307
+  size: 185, 73
+  orig: 189, 73
+  offset: 0, 0
+  index: -1
+大木桩2
+  rotate: false
+  xy: 74, 225
+  size: 191, 73
+  orig: 191, 73
+  offset: 0, 0
+  index: -1
+射光_灯1
+  rotate: false
+  xy: 726, 14
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+射光_灯2
+  rotate: false
+  xy: 719, 632
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+射光_粉1
+  rotate: false
+  xy: 265, 305
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_粉2
+  rotate: false
+  xy: 406, 305
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_紫1
+  rotate: false
+  xy: 409, 157
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_紫2
+  rotate: false
+  xy: 409, 9
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_绿1
+  rotate: false
+  xy: 622, 409
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_绿2
+  rotate: false
+  xy: 627, 161
+  size: 139, 146
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+射光_脚前1
+  rotate: false
+  xy: 744, 310
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+射光_脚前2
+  rotate: false
+  xy: 745, 692
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+射光_脚后1
+  rotate: false
+  xy: 745, 561
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+射光_脚后2
+  rotate: false
+  xy: 749, 135
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+建设中_中档板
+  rotate: true
+  xy: 89, 6
+  size: 217, 101
+  orig: 218, 101
+  offset: 0, 0
+  index: -1
+建设中_右侧挡板
+  rotate: true
+  xy: 298, 100
+  size: 203, 87
+  orig: 203, 87
+  offset: 0, 0
+  index: -1
+建设中_地面1
+  rotate: true
+  xy: 387, 85
+  size: 218, 20
+  orig: 218, 20
+  offset: 0, 0
+  index: -1
+建设中_地面2
+  rotate: true
+  xy: 749, 719
+  size: 227, 24
+  orig: 227, 24
+  offset: 0, 0
+  index: -1
+建设中_左侧挡板
+  rotate: true
+  xy: 528, 494
+  size: 202, 87
+  orig: 202, 87
+  offset: 0, 0
+  index: -1
+建设中_烟1
+  rotate: false
+  xy: 622, 309
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+建设中_烟2
+  rotate: false
+  xy: 74, 300
+  size: 189, 151
+  orig: 190, 151
+  offset: 0, 0
+  index: -1
+建设中_烟3
+  rotate: true
+  xy: 471, 698
+  size: 181, 134
+  orig: 181, 134
+  offset: 0, 0
+  index: -1
+建设中_烟4
+  rotate: false
+  xy: 627, 61
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+建设中_烟5
+  rotate: false
+  xy: 298, 35
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+建设中_道具1
+  rotate: false
+  xy: 719, 587
+  size: 44, 43
+  orig: 45, 44
+  offset: 0, 1
+  index: -1
+建设中_道具2
+  rotate: false
+  xy: 749, 113
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+建设中_道具3
+  rotate: true
+  xy: 365, 42
+  size: 41, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+建设中_道具4
+  rotate: false
+  xy: 267, 225
+  size: 17, 21
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+木凳
+  rotate: false
+  xy: 74, 453
+  size: 354, 78
+  orig: 355, 78
+  offset: 0, 0
+  index: -1
+木栏
+  rotate: true
+  xy: 694, 722
+  size: 224, 53
+  orig: 224, 53
+  offset: 0, 0
+  index: -1
+气球1
+  rotate: false
+  xy: 550, 123
+  size: 75, 182
+  orig: 75, 182
+  offset: 0, 0
+  index: -1
+气球2
+  rotate: false
+  xy: 2, 8
+  size: 85, 206
+  orig: 85, 206
+  offset: 0, 0
+  index: -1
+气球3
+  rotate: false
+  xy: 607, 722
+  size: 85, 224
+  orig: 85, 225
+  offset: 0, 0
+  index: -1
+气球4
+  rotate: false
+  xy: 617, 557
+  size: 100, 163
+  orig: 101, 164
+  offset: 0, 1
+  index: -1
+气球5
+  rotate: true
+  xy: 600, 948
+  size: 84, 175
+  orig: 84, 176
+  offset: 0, 0
+  index: -1
+绿化1
+  rotate: false
+  xy: 74, 533
+  size: 358, 140
+  orig: 358, 140
+  offset: 0, 0
+  index: -1
+绿化2
+  rotate: true
+  xy: 192, 19
+  size: 204, 104
+  orig: 204, 104
+  offset: 0, 0
+  index: -1
+绿化_植物1
+  rotate: false
+  xy: 719, 679
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+绿化_植物2
+  rotate: true
+  xy: 550, 2
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+绿化_植物3
+  rotate: true
+  xy: 471, 675
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+绿化_植物4
+  rotate: true
+  xy: 298, 22
+  size: 11, 37
+  orig: 12, 37
+  offset: 1, 0
+  index: -1
+绿化_植物5
+  rotate: false
+  xy: 744, 337
+  size: 31, 70
+  orig: 32, 70
+  offset: 1, 0
+  index: -1
+绿化_植物6
+  rotate: true
+  xy: 192, 2
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+舞台
+  rotate: false
+  xy: 74, 881
+  size: 524, 151
+  orig: 526, 153
+  offset: 1, 1
+  index: -1
+舞台_花坛1
+  rotate: true
+  xy: 430, 456
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+舞台_花坛2
+  rotate: true
+  xy: 621, 2
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+舞台背景
+  rotate: false
+  xy: 74, 675
+  size: 395, 204
+  orig: 395, 205
+  offset: 0, 1
+  index: -1
+风史来姆
+  rotate: true
+  xy: 550, 16
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+风史来姆_翅膀1
+  rotate: false
+  xy: 719, 557
+  size: 24, 28
+  orig: 25, 29
+  offset: 1, 1
+  index: -1
+风史来姆_翅膀2
+  rotate: false
+  xy: 521, 463
+  size: 24, 29
+  orig: 25, 29
+  offset: 1, 0
+  index: -1
+风史来姆眼
+  rotate: true
+  xy: 267, 248
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1

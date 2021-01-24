@@ -1,0 +1,285 @@
+dawei.png
+size: 1177,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj右腿
+  rotate: true
+  xy: 964, 101
+  size: 41, 65
+  orig: 67, 67
+  offset: 0, 1
+  index: -1
+bj左腿
+  rotate: true
+  xy: 1031, 103
+  size: 39, 66
+  orig: 39, 67
+  offset: 0, 1
+  index: -1
+bn右腿
+  rotate: true
+  xy: 281, 11
+  size: 41, 66
+  orig: 63, 66
+  offset: 22, 0
+  index: -1
+bn左腿
+  rotate: true
+  xy: 1099, 105
+  size: 37, 66
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+b右举起
+  rotate: false
+  xy: 906, 44
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+b右伸手
+  rotate: true
+  xy: 945, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+b头冠
+  rotate: false
+  xy: 666, 5
+  size: 57, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+b左伸手
+  rotate: true
+  xy: 978, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+b左握拳
+  rotate: false
+  xy: 957, 44
+  size: 37, 49
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+b左臂
+  rotate: false
+  xy: 349, 13
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+b毛毛
+  rotate: false
+  xy: 2, 9
+  size: 153, 133
+  orig: 153, 133
+  offset: 0, 0
+  index: -1
+b耳朵l
+  rotate: true
+  xy: 1032, 10
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+b耳朵r
+  rotate: false
+  xy: 1087, 56
+  size: 44, 45
+  orig: 45, 46
+  offset: 0, 1
+  index: -1
+b躯干
+  rotate: true
+  xy: 742, 75
+  size: 67, 75
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+b阴影
+  rotate: false
+  xy: 654, 55
+  size: 81, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+b面具
+  rotate: false
+  xy: 545, 42
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+hm
+  rotate: false
+  xy: 399, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hm耳朵s
+  rotate: false
+  xy: 434, 8
+  size: 46, 19
+  orig: 46, 20
+  offset: 0, 1
+  index: -1
+hm耳朵x
+  rotate: true
+  xy: 641, 2
+  size: 38, 23
+  orig: 38, 24
+  offset: 0, 1
+  index: -1
+上衣s
+  rotate: false
+  xy: 654, 76
+  size: 86, 66
+  orig: 86, 67
+  offset: 0, 1
+  index: -1
+前
+  rotate: false
+  xy: 819, 93
+  size: 74, 49
+  orig: 75, 49
+  offset: 1, 0
+  index: -1
+前s
+  rotate: false
+  xy: 1032, 56
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+右伸手s
+  rotate: false
+  xy: 766, 4
+  size: 43, 35
+  orig: 43, 36
+  offset: 0, 1
+  index: -1
+右臂s
+  rotate: false
+  xy: 1133, 57
+  size: 42, 46
+  orig: 42, 47
+  offset: 0, 1
+  index: -1
+后
+  rotate: false
+  xy: 895, 95
+  size: 67, 47
+  orig: 68, 48
+  offset: 0, 1
+  index: -1
+后s
+  rotate: false
+  xy: 811, 6
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+头hm
+  rotate: false
+  xy: 1083, 12
+  size: 47, 42
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+头冠s
+  rotate: false
+  xy: 819, 34
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+星星
+  rotate: false
+  xy: 1132, 19
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+毛毛s
+  rotate: false
+  xy: 399, 29
+  size: 144, 113
+  orig: 144, 113
+  offset: 0, 0
+  index: -1
+睡觉03
+  rotate: true
+  xy: 793, 47
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+箱子s
+  rotate: false
+  xy: 281, 54
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+耳朵前s
+  rotate: true
+  xy: 878, 35
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+耳朵后s
+  rotate: false
+  xy: 737, 41
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+衣摆s
+  rotate: false
+  xy: 545, 2
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+身体hm
+  rotate: true
+  xy: 996, 45
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+阴影s
+  rotate: false
+  xy: 157, 100
+  size: 240, 42
+  orig: 240, 42
+  offset: 0, 0
+  index: -1
+面具s
+  rotate: false
+  xy: 157, 11
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+飘带l
+  rotate: true
+  xy: 725, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+飘带r
+  rotate: false
+  xy: 906, 2
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,180 @@
+RU.png
+size: 396,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 69, 255
+  size: 112, 130
+  orig: 114, 132
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 183, 191
+  size: 118, 101
+  orig: 120, 103
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 303, 228
+  size: 81, 97
+  orig: 83, 99
+  offset: 1, 1
+  index: -1
+04
+  rotate: false
+  xy: 69, 132
+  size: 99, 121
+  orig: 101, 123
+  offset: 1, 1
+  index: -1
+05
+  rotate: false
+  xy: 183, 417
+  size: 130, 105
+  orig: 132, 107
+  offset: 1, 1
+  index: -1
+06
+  rotate: true
+  xy: 284, 327
+  size: 88, 110
+  orig: 90, 112
+  offset: 1, 1
+  index: -1
+07
+  rotate: false
+  xy: 315, 419
+  size: 76, 103
+  orig: 78, 105
+  offset: 1, 1
+  index: -1
+08
+  rotate: false
+  xy: 314, 68
+  size: 39, 100
+  orig: 41, 102
+  offset: 1, 1
+  index: -1
+09
+  rotate: false
+  xy: 183, 294
+  size: 99, 121
+  orig: 101, 123
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 69, 387
+  size: 112, 135
+  orig: 114, 137
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 2, 6
+  size: 81, 103
+  orig: 83, 105
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 85, 10
+  size: 99, 120
+  orig: 101, 122
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 186, 76
+  size: 85, 92
+  orig: 87, 94
+  offset: 1, 1
+  index: -1
+姆-草
+  rotate: true
+  xy: 314, 30
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+按钮-s-形状 1
+  rotate: false
+  xy: 355, 161
+  size: 13, 22
+  orig: 15, 24
+  offset: 1, 1
+  index: -1
+蘑菇
+  rotate: true
+  xy: 275, 36
+  size: 56, 37
+  orig: 67, 47
+  offset: 6, 5
+  index: -1
+进入乐园
+  rotate: true
+  xy: 2, 111
+  size: 411, 65
+  orig: 417, 71
+  offset: 3, 3
+  index: -1
+通用_投影
+  rotate: false
+  xy: 170, 170
+  size: 146, 19
+  orig: 148, 21
+  offset: 1, 1
+  index: -1
+通用_翅膀-右
+  rotate: false
+  xy: 351, 185
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_翅膀-左
+  rotate: false
+  xy: 355, 96
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+通用_花
+  rotate: false
+  xy: 303, 197
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+通用_花儿
+  rotate: true
+  xy: 273, 94
+  size: 74, 39
+  orig: 80, 42
+  offset: 2, 1
+  index: -1
+通用_草
+  rotate: true
+  xy: 370, 139
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+通用_草1
+  rotate: true
+  xy: 355, 68
+  size: 26, 20
+  orig: 28, 22
+  offset: 1, 1
+  index: -1
+通用_铲子
+  rotate: true
+  xy: 186, 2
+  size: 72, 87
+  orig: 74, 89
+  offset: 1, 1
+  index: -1

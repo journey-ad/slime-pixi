@@ -1,0 +1,243 @@
+lei1.png
+size: 1000,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+发电球l
+  rotate: true
+  xy: 913, 11
+  size: 31, 29
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+发电球m
+  rotate: false
+  xy: 967, 59
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+文字泡
+  rotate: true
+  xy: 889, 44
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+汗02
+  rotate: true
+  xy: 827, 8
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+汗03
+  rotate: true
+  xy: 812, 6
+  size: 16, 13
+  orig: 16, 14
+  offset: 0, 1
+  index: -1
+睁眼
+  rotate: false
+  xy: 941, 86
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+睡觉01
+  rotate: true
+  xy: 889, 104
+  size: 26, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+睡觉02
+  rotate: true
+  xy: 976, 119
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+睡觉03
+  rotate: true
+  xy: 941, 58
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+触角
+  rotate: false
+  xy: 865, 132
+  size: 28, 43
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 784, 24
+  size: 106, 69
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+闪01
+  rotate: false
+  xy: 549, 3
+  size: 25, 17
+  orig: 26, 18
+  offset: 0, 1
+  index: -1
+闪02
+  rotate: true
+  xy: 784, 3
+  size: 19, 26
+  orig: 19, 28
+  offset: 0, 1
+  index: -1
+闪03
+  rotate: false
+  xy: 519, 3
+  size: 28, 17
+  orig: 30, 19
+  offset: 1, 1
+  index: -1
+闭眼01
+  rotate: false
+  xy: 913, 118
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+闭眼02
+  rotate: false
+  xy: 842, 9
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1
+闭眼03
+  rotate: false
+  xy: 576, 9
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 855, 25
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+雷电02
+  rotate: false
+  xy: 913, 146
+  size: 83, 29
+  orig: 85, 30
+  offset: 1, 0
+  index: -1
+雷电03
+  rotate: true
+  xy: 163, 3
+  size: 121, 94
+  orig: 123, 94
+  offset: 1, 0
+  index: -1
+雷电04
+  rotate: true
+  xy: 2, 5
+  size: 113, 32
+  orig: 114, 32
+  offset: 0, 0
+  index: -1
+雷电04/雷电/雷电_00000
+  rotate: true
+  xy: 36, 8
+  size: 110, 125
+  orig: 304, 266
+  offset: 77, 112
+  index: -1
+雷电04/雷电/雷电_00001
+  rotate: true
+  xy: 519, 22
+  size: 106, 128
+  orig: 304, 266
+  offset: 77, 110
+  index: -1
+雷电04/雷电/雷电_00002
+  rotate: true
+  xy: 387, 10
+  size: 117, 130
+  orig: 304, 266
+  offset: 74, 108
+  index: -1
+雷电04/雷电/雷电_00003
+  rotate: false
+  xy: 119, 126
+  size: 121, 141
+  orig: 304, 266
+  offset: 77, 109
+  index: -1
+雷电04/雷电/雷电_00004
+  rotate: true
+  xy: 649, 2
+  size: 127, 133
+  orig: 304, 266
+  offset: 66, 109
+  index: -1
+雷电04/雷电/雷电_00005
+  rotate: false
+  xy: 735, 132
+  size: 128, 135
+  orig: 304, 266
+  offset: 67, 106
+  index: -1
+雷电04/雷电/雷电_00006
+  rotate: false
+  xy: 2, 120
+  size: 115, 147
+  orig: 304, 266
+  offset: 66, 94
+  index: -1
+雷电04/雷电/雷电_00007
+  rotate: false
+  xy: 242, 128
+  size: 128, 139
+  orig: 304, 266
+  offset: 66, 102
+  index: -1
+雷电04/雷电/雷电_00008
+  rotate: true
+  xy: 259, 2
+  size: 124, 126
+  orig: 304, 266
+  offset: 69, 109
+  index: -1
+雷电04/雷电/雷电_00009
+  rotate: true
+  xy: 598, 131
+  size: 136, 135
+  orig: 304, 266
+  offset: 61, 106
+  index: -1
+雷电04/雷电/雷电_00010
+  rotate: false
+  xy: 372, 129
+  size: 134, 138
+  orig: 304, 266
+  offset: 60, 107
+  index: -1
+雷电05
+  rotate: false
+  xy: 865, 177
+  size: 131, 90
+  orig: 133, 91
+  offset: 1, 0
+  index: -1
+雷电06
+  rotate: true
+  xy: 508, 130
+  size: 137, 88
+  orig: 139, 90
+  offset: 1, 1
+  index: -1

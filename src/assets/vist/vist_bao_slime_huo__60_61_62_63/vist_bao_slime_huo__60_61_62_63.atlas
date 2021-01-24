@@ -1,0 +1,299 @@
+baodan.png
+size: 729,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qs阴影
+  rotate: false
+  xy: 503, 155
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+st阴影
+  rotate: false
+  xy: 143, 10
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+s手前
+  rotate: true
+  xy: 624, 42
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+s桶
+  rotate: true
+  xy: 157, 124
+  size: 102, 122
+  orig: 102, 124
+  offset: 0, 1
+  index: -1
+s眼睛01
+  rotate: false
+  xy: 106, 2
+  size: 28, 22
+  orig: 28, 23
+  offset: 0, 1
+  index: -1
+s眼睛02
+  rotate: false
+  xy: 572, 13
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+s面具
+  rotate: false
+  xy: 143, 29
+  size: 118, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+t阴影
+  rotate: true
+  xy: 710, 85
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+zs阴影
+  rotate: false
+  xy: 157, 228
+  size: 234, 39
+  orig: 234, 39
+  offset: 0, 0
+  index: -1
+z右手
+  rotate: true
+  xy: 535, 39
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+z右腿
+  rotate: true
+  xy: 624, 102
+  size: 52, 45
+  orig: 55, 45
+  offset: 3, 0
+  index: -1
+z左手
+  rotate: false
+  xy: 449, 7
+  size: 64, 33
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+z左腿
+  rotate: false
+  xy: 579, 37
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+z毛毛
+  rotate: false
+  xy: 2, 134
+  size: 153, 133
+  orig: 153, 133
+  offset: 0, 0
+  index: -1
+z耳朵l
+  rotate: true
+  xy: 677, 43
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+z耳朵r
+  rotate: true
+  xy: 401, 2
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+z腰封
+  rotate: true
+  xy: 354, 36
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+z躯干
+  rotate: true
+  xy: 469, 42
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+z阴影
+  rotate: false
+  xy: 263, 23
+  size: 81, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+前
+  rotate: false
+  xy: 497, 105
+  size: 74, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+前面的毛毛
+  rotate: false
+  xy: 346, 2
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+后
+  rotate: false
+  xy: 597, 156
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+手后
+  rotate: false
+  xy: 68, 2
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+桶
+  rotate: false
+  xy: 395, 159
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+毛毛
+  rotate: false
+  xy: 2, 26
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+汗01
+  rotate: false
+  xy: 707, 254
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+汗1
+  rotate: false
+  xy: 143, 124
+  size: 10, 8
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+汗2
+  rotate: false
+  xy: 527, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+火酱 拷贝
+  rotate: false
+  xy: 263, 44
+  size: 89, 67
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+火酱熄灭
+  rotate: false
+  xy: 503, 209
+  size: 110, 58
+  orig: 110, 58
+  offset: 0, 0
+  index: -1
+眼泪
+  rotate: false
+  xy: 515, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+眼睛01
+  rotate: true
+  xy: 220, 2
+  size: 25, 28
+  orig: 26, 30
+  offset: 0, 1
+  index: -1
+眼睛02
+  rotate: false
+  xy: 515, 12
+  size: 27, 25
+  orig: 28, 25
+  offset: 1, 0
+  index: -1
+睡觉03
+  rotate: false
+  xy: 544, 13
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+耳朵
+  rotate: false
+  xy: 573, 105
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+耳朵后
+  rotate: false
+  xy: 2, 2
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+腰封
+  rotate: false
+  xy: 401, 48
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 615, 206
+  size: 90, 61
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+面具
+  rotate: false
+  xy: 281, 113
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+飘带
+  rotate: false
+  xy: 395, 119
+  size: 100, 38
+  orig: 100, 38
+  offset: 0, 0
+  index: -1
+飘带l
+  rotate: false
+  xy: 671, 102
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+飘带r
+  rotate: false
+  xy: 675, 152
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

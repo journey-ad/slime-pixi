@@ -1,0 +1,215 @@
+lsj.png
+size: 157,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+五线谱
+  rotate: true
+  xy: 2, 796
+  size: 171, 82
+  orig: 171, 84
+  offset: 0, 1
+  index: -1
+唱片
+  rotate: true
+  xy: 120, 877
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+唱片阴影
+  rotate: true
+  xy: 137, 877
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+喇叭
+  rotate: false
+  xy: 2, 611
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+喇叭体
+  rotate: false
+  xy: 116, 693
+  size: 39, 43
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+图层组96
+  rotate: true
+  xy: 103, 817
+  size: 21, 12
+  orig: 22, 12
+  offset: 1, 0
+  index: -1
+留声机唱片/留声机唱片_00000
+  rotate: false
+  xy: 79, 535
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00001
+  rotate: false
+  xy: 2, 459
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00002
+  rotate: false
+  xy: 79, 459
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00003
+  rotate: false
+  xy: 2, 383
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00004
+  rotate: false
+  xy: 79, 383
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00005
+  rotate: false
+  xy: 2, 307
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00006
+  rotate: false
+  xy: 79, 307
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00007
+  rotate: false
+  xy: 2, 231
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00008
+  rotate: false
+  xy: 79, 231
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00009
+  rotate: false
+  xy: 2, 155
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00010
+  rotate: false
+  xy: 79, 155
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00011
+  rotate: false
+  xy: 2, 79
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00012
+  rotate: false
+  xy: 79, 79
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00013
+  rotate: true
+  xy: 2, 2
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00014
+  rotate: false
+  xy: 78, 3
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+留声机唱片/留声机唱片_00015
+  rotate: false
+  xy: 2, 535
+  size: 75, 74
+  orig: 159, 106
+  offset: 45, 17
+  index: -1
+盒体
+  rotate: true
+  xy: 2, 695
+  size: 99, 112
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+花右
+  rotate: false
+  xy: 116, 738
+  size: 39, 51
+  orig: 41, 51
+  offset: 2, 0
+  index: -1
+花左
+  rotate: true
+  xy: 120, 853
+  size: 22, 26
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+针头
+  rotate: true
+  xy: 120, 829
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 86, 840
+  size: 127, 32
+  orig: 128, 32
+  offset: 1, 0
+  index: -1
+音符01
+  rotate: false
+  xy: 117, 791
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+音符02
+  rotate: false
+  xy: 120, 929
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+音符03
+  rotate: false
+  xy: 86, 802
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1

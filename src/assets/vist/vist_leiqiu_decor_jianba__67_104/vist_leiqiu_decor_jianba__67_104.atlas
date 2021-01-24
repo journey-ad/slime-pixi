@@ -1,0 +1,222 @@
+jb.png
+size: 523,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j阴影
+  rotate: false
+  xy: 152, 142
+  size: 133, 22
+  orig: 133, 22
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 286, 79
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+l 0
+  rotate: false
+  xy: 502, 9
+  size: 19, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+l耳朵
+  rotate: true
+  xy: 452, 2
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 343, 12
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+r0
+  rotate: false
+  xy: 323, 5
+  size: 18, 30
+  orig: 19, 30
+  offset: 1, 0
+  index: -1
+r耳朵
+  rotate: true
+  xy: 374, 44
+  size: 52, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+r阴影
+  rotate: true
+  xy: 265, 77
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+s阴影
+  rotate: false
+  xy: 329, 135
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+右s
+  rotate: false
+  xy: 407, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+右t
+  rotate: false
+  xy: 323, 37
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+左s
+  rotate: true
+  xy: 224, 8
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+左t
+  rotate: false
+  xy: 287, 104
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+弓箭
+  rotate: true
+  xy: 329, 169
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+弦
+  rotate: true
+  xy: 329, 98
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+手前
+  rotate: true
+  xy: 487, 80
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+日落果
+  rotate: true
+  xy: 434, 175
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+毛毛
+  rotate: false
+  xy: 2, 10
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+水酱
+  rotate: false
+  xy: 157, 71
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+汗1
+  rotate: true
+  xy: 460, 80
+  size: 14, 12
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+汗2
+  rotate: true
+  xy: 307, 85
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+汗3
+  rotate: false
+  xy: 135, 9
+  size: 16, 12
+  orig: 16, 13
+  offset: 0, 1
+  index: -1
+箭
+  rotate: false
+  xy: 409, 96
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+箭t
+  rotate: false
+  xy: 269, 4
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+箭靶
+  rotate: true
+  xy: 152, 166
+  size: 101, 175
+  orig: 101, 175
+  offset: 0, 0
+  index: -1
+腰封
+  rotate: false
+  xy: 436, 128
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 157, 2
+  size: 65, 67
+  orig: 65, 68
+  offset: 0, 1
+  index: -1
+阴影
+  rotate: true
+  xy: 135, 23
+  size: 109, 20
+  orig: 116, 20
+  offset: 6, 0
+  index: -1
+面具
+  rotate: false
+  xy: 2, 134
+  size: 148, 133
+  orig: 148, 133
+  offset: 0, 0
+  index: -1
+飘带l
+  rotate: true
+  xy: 460, 41
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+飘带r
+  rotate: true
+  xy: 407, 47
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
