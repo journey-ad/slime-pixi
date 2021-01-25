@@ -1,8 +1,5 @@
 <template>
   <div class="SlimePIXI">
-    <transition name="fade">
-      <Loading :curProg="curProg" v-if="curProg < 100 || !loaded" />
-    </transition>
     <canvas id="webglCanvas" ref="webglCanvas"></canvas>
   </div>
 </template>
@@ -10,7 +7,6 @@
 <script>
 // import * as PIXI from "pixi.js";
 // import "@/lib/pixi-spine";
-import Loading from "./Loading";
 import Stats from "stats.js";
 import { TweenMax, Power0 } from "gsap";
 const Scroller = require("@/lib/Scroller.js");
@@ -365,8 +361,6 @@ export default {
       isTouching: false,
       slimeList: [],
       decorateList: [],
-      curProg: 0,
-      loaded: false,
     };
   },
   methods: {
@@ -378,10 +372,10 @@ export default {
       });
       PIXILoader.on("progress", (evt) => {
         // console.log(evt);
-        this.curProg = Math.min(100, evt.progress.toFixed(1));
+        this.$bus.$emit('PRELOAD', Math.min(100, evt.progress.toFixed(1)));
       })
         .on("complete", (evt) => {
-          this.curProg = 100;
+          this.$bus.$emit('PRELOAD', 100);
           console.log("图片资源加载完成");
         })
         .load(this.initScene);
@@ -436,7 +430,7 @@ export default {
       this.build3D();
       this.initControl();
       setTimeout(() => {
-        this.loaded = true;
+        this.$bus.$emit('LOADED', true)
       }, 800);
     },
     build3D() {
@@ -705,21 +699,5 @@ export default {
     this.preloadContent();
     this.handleBindEvent();
   },
-  beforeDestroy() {
-    this.$bus.$off();
-  },
-  components: {
-    Loading,
-  },
 };
 </script>
-
-<style lang="stylus" scoped>
-.fade-enter-active, .fade-leave-active {
-  transition: opacity 1.6s;
-}
-
-.fade-enter, .fade-leave-to {
-  opacity: 0;
-}
-</style>
