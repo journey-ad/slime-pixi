@@ -1,7 +1,7 @@
 module.exports = {
   lintOnSave: false,
   publicPath: process.env.NODE_ENV === 'production'
-    ? '././'
+    ? 'https://cdn.jsdelivr.net/gh/journey-ad/slime-pixi@gh-pages/'
     : '/',
   productionSourceMap: false,
   chainWebpack: config => {
